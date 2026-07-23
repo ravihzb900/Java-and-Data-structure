@@ -1,5 +1,5 @@
 package Recursion;
-
+// printing hello java n times
 public class Hello_java {
     static void hello_java(int a){
         System.out.println("Hello java");

@@ -10,6 +10,5 @@ public class Hello_java {
         hello_java();
 
     }
-}aaaaaaaaaaaaaaaaaaaaaagit add .
-git commit -m "Your commit message"
+}"
 
